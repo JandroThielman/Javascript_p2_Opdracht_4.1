@@ -1,4 +1,4 @@
-let text;
+let text = "";
 
 for (let i = 1; i < 11; i++) {
 
